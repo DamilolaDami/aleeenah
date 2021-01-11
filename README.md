@@ -1,5 +1,5 @@
 # Aleenah
-## ecommerce ui made with flutter, firebase functionality available soon :blush:
+## Clothing Store ui made with flutter, firebase functionality available soon :blush:
 ### :star: star the repo if you like what you see :shipit:
 [![Twitter Follow](https://img.shields.io/twitter/follow/LeanXmolly1.svg?style=social)](https://twitter.com/LeanXmolly1)
 
