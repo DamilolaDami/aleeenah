@@ -1,3 +1,4 @@
+import 'package:aleena/account_details.dart';
 import 'package:aleena/carousel.dart';
 import 'package:aleena/clothing_black.dart';
 import 'package:aleena/clothing_white.dart';
@@ -81,6 +82,16 @@ class _HomeScreenState extends State<HomeScreen> {
                 context,
                 MaterialPageRoute(
                   builder: (context) => CartPage(),
+                ));
+          },
+        ),
+        IconButton(
+          icon: Icon(Icons.person),
+          onPressed: () {
+            Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => AccountDetails(),
                 ));
           },
         ),
